@@ -138,3 +138,6 @@ _media/
 
 .env.prod
 .env.prod.db
+
+#my stuff
+db/db.sqlite3
