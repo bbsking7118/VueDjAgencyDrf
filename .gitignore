@@ -140,4 +140,4 @@ _media/
 .env.prod.db
 
 #my stuff
-db/db.sqlite3
+# db/db.sqlite3
